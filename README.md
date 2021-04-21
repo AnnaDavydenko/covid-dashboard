@@ -1,4 +1,4 @@
-# Deploy: https://rolling-scopes-school.github.io/annadavydenko-JS2020Q3/covid-dashboard/
+## Deploy: https://rolling-scopes-school.github.io/annadavydenko-JS2020Q3/covid-dashboard/
 
 # Getting Started with Create React App
 
