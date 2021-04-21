@@ -1,3 +1,5 @@
+# Deploy: https://rolling-scopes-school.github.io/annadavydenko-JS2020Q3/covid-dashboard/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
